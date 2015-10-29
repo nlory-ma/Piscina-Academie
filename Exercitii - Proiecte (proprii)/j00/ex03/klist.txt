@@ -1,0 +1,6 @@
+Credentials cache: API:15044
+        Principal: nmuresan@42.FR
+
+  Issued                Expires               Principal
+Sep  1 09:16:48 2015  Sep  1 19:16:48 2015  krbtgt/42.FR@42.FR
+Sep  1 09:17:05 2015  Sep  1 19:16:48 2015  nfs/zfs-student-6.cluj.42.fr@42.FR
